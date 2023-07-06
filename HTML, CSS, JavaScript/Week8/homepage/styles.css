@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: #aaa;
+}
+
+h1 {
+    color: #aaa;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    max-width: 200px;
+    height: auto;
+}
+
+.navbar-custom {
+    background-color: #639968;
+    font-family: Arial, sans-serif;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text,
+.nav-link {
+    color: #FFFFFF;
+}
