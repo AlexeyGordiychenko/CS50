@@ -1,0 +1,625 @@
+Welcome. Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+Invalid input, try again
+Invalid input, try again
+======================
+id  name              
+======================
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+0   main              
+1   security          
+2   text              
+3   audio             
+4   speech            
+5   fuzzy             
+6   neural            
+7   door management   
+8   ai                
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+0   main              
+1   security          
+2   text              
+3   audio             
+4   speech            
+5   fuzzy             
+6   neural            
+7   door management   
+8   ai                
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+0   main              
+1   security          
+2   text              
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Code (4 digits):
+Inserted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Code (4 digits):
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Name (1-30 characters):
+Inserted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+0   main              
+1   security          
+2   text              
+3   audio             
+4   speech            
+5   fuzzy             
+6   neural            
+7   door management   
+8   ai                
+9   test_module       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Name (1-30 characters):
+Invalid input, try again
+Invalid input, try again
+Inserted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+0   main              
+1   security          
+2   text              
+3   audio             
+4   speech            
+5   fuzzy             
+6   neural            
+7   door management   
+8   ai                
+9   test_module       
+10  test_module2      
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to delete:
+Deleted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+0   main              
+1   security          
+2   text              
+3   audio             
+4   speech            
+5   fuzzy             
+6   neural            
+8   ai                
+9   test_module       
+10  test_module2      
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Name (1-30 characters):
+Inserted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+0   main              
+1   security          
+2   text              
+3   audio             
+4   speech            
+5   fuzzy             
+6   neural            
+8   ai                
+9   test_module       
+10  test_module2      
+11  test_module_after_delete
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'NAME' (1-30 characters) or to don't change leave empty:
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+0   main              
+1   security          
+2   text              
+3   audio             
+4   speech            
+5   FUZZY             
+6   neural            
+8   ai                
+9   test_module       
+10  test_module2      
+11  test_module_after_delete
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+Invalid input, try again
+Invalid input, try again
+New value for field 'NAME' (1-30 characters) or to don't change leave empty:
+Invalid input, try again
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+0   main              
+1   security          
+2   text              
+3   audio             
+4   speech            
+5   123456789012345678901234567890
+6   neural            
+8   ai                
+9   test_module       
+10  test_module2      
+11  test_module_after_delete
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'NAME' (1-30 characters) or to don't change leave empty:
+ID not found
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'NAME' (1-30 characters) or to don't change leave empty:
+Nothing to update
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to delete:
+Deleted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+0   main              
+1   security          
+2   text              
+4   speech            
+5   123456789012345678901234567890
+6   neural            
+8   ai                
+9   test_module       
+10  test_module2      
+11  test_module_after_delete
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to delete:
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+ID not found
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to delete:
+Deleted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+1   security          
+2   text              
+4   speech            
+5   123456789012345678901234567890
+6   neural            
+8   ai                
+9   test_module       
+10  test_module2      
+11  test_module_after_delete
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to delete:
+Deleted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+1   security          
+2   text              
+4   speech            
+5   123456789012345678901234567890
+6   neural            
+8   ai                
+9   test_module       
+10  test_module2      
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'NAME' (1-30 characters) or to don't change leave empty:
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+======================
+id  name              
+======================
+1   test              
+2   test              
+4   test              
+5   test              
+6   test              
+8   test              
+9   test              
+10  test              
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT

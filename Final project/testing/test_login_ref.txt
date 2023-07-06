@@ -1,0 +1,134 @@
+Welcome. Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+====
+code
+====
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Code (4 digits):
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Inserted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+====
+code
+====
+1234
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Table is not empty, update the code instead of inserting.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Code (4 digits):
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+====
+code
+====
+4321
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Deleted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Nothing to delete
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Table is empty, insert instead of updating.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT

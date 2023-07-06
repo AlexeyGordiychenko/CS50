@@ -1,0 +1,898 @@
+Welcome. Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+Invalid input, try again
+Invalid input, try again
+====================
+id  rooms   closed  
+====================
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+3   2       1       
+4   3       1       
+5   4       1       
+6   5       1       
+7   5       1       
+8   5       1       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+3   2       1       
+4   3       1       
+5   4       1       
+6   5       1       
+7   5       1       
+8   5       1       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Code (4 digits):
+Inserted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Code (4 digits):
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Room (digit 0-99):
+Status (1-closed, 0-open):
+Inserted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+3   2       1       
+4   3       1       
+5   4       1       
+6   5       1       
+7   5       1       
+8   5       1       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+15  10      1       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Room (digit 0-99):
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Status (1-closed, 0-open):
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Inserted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+3   2       1       
+4   3       1       
+5   4       1       
+6   5       1       
+7   5       1       
+8   5       1       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+15  10      1       
+16  11      1       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to delete:
+Deleted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+3   2       1       
+4   3       1       
+5   4       1       
+6   5       1       
+8   5       1       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+15  10      1       
+16  11      1       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Room (digit 0-99):
+Status (1-closed, 0-open):
+Inserted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+3   2       1       
+4   3       1       
+5   4       1       
+6   5       1       
+8   5       1       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+15  10      1       
+16  11      1       
+17  12      0       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'ROOM'(digit 0-99) or to don't change leave empty or type -1:
+New value for field 'STATUS' (1-closed, 0-open) or to don't change leave empty or type -1:
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+3   2       1       
+4   3       1       
+5   13      0       
+6   5       1       
+8   5       1       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+15  10      1       
+16  11      1       
+17  12      0       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+Invalid input, try again
+Invalid input, try again
+New value for field 'ROOM'(digit 0-99) or to don't change leave empty or type -1:
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+New value for field 'STATUS' (1-closed, 0-open) or to don't change leave empty or type -1:
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+3   2       1       
+4   3       1       
+5   13      0       
+6   66      1       
+8   5       1       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+15  10      1       
+16  11      1       
+17  12      0       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'ROOM'(digit 0-99) or to don't change leave empty or type -1:
+New value for field 'STATUS' (1-closed, 0-open) or to don't change leave empty or type -1:
+ID not found
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'ROOM'(digit 0-99) or to don't change leave empty or type -1:
+New value for field 'STATUS' (1-closed, 0-open) or to don't change leave empty or type -1:
+Nothing to update
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'ROOM'(digit 0-99) or to don't change leave empty or type -1:
+New value for field 'STATUS' (1-closed, 0-open) or to don't change leave empty or type -1:
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+3   2       1       
+4   3       1       
+5   13      0       
+6   66      1       
+8   5       0       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+15  10      1       
+16  11      1       
+17  12      0       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'ROOM'(digit 0-99) or to don't change leave empty or type -1:
+New value for field 'STATUS' (1-closed, 0-open) or to don't change leave empty or type -1:
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+3   2       1       
+4   3       1       
+5   13      0       
+6   66      1       
+8   88      0       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+15  10      1       
+16  11      1       
+17  12      0       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to delete:
+Deleted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+0   0       1       
+1   1       1       
+2   2       1       
+4   3       1       
+5   13      0       
+6   66      1       
+8   88      0       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+15  10      1       
+16  11      1       
+17  12      0       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to delete:
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+ID not found
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to delete:
+Deleted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+1   1       1       
+2   2       1       
+4   3       1       
+5   13      0       
+6   66      1       
+8   88      0       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+15  10      1       
+16  11      1       
+17  12      0       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to delete:
+Deleted successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+1   1       1       
+2   2       1       
+4   3       1       
+5   13      0       
+6   66      1       
+8   88      0       
+9   6       1       
+10  6       1       
+11  7       1       
+12  8       1       
+13  9       1       
+14  9       1       
+15  10      1       
+16  11      1       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'ROOM'(digit 0-99) or to don't change leave empty or type -1:
+New value for field 'STATUS' (1-closed, 0-open) or to don't change leave empty or type -1:
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+1   1       0       
+2   2       0       
+4   3       0       
+5   13      0       
+6   66      0       
+8   88      0       
+9   6       0       
+10  6       0       
+11  7       0       
+12  8       0       
+13  9       0       
+14  9       0       
+15  10      0       
+16  11      0       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'ROOM'(digit 0-99) or to don't change leave empty or type -1:
+New value for field 'STATUS' (1-closed, 0-open) or to don't change leave empty or type -1:
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+1   0       0       
+2   0       0       
+4   0       0       
+5   0       0       
+6   0       0       
+8   0       0       
+9   0       0       
+10  0       0       
+11  0       0       
+12  0       0       
+13  0       0       
+14  0       0       
+15  0       0       
+16  0       0       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+ID of the record to update or to update all records leave empty or type -1:
+New value for field 'ROOM'(digit 0-99) or to don't change leave empty or type -1:
+New value for field 'STATUS' (1-closed, 0-open) or to don't change leave empty or type -1:
+Updated successfully!
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Provide the number of records or to output all of them leave empty or type -1:
+====================
+id  rooms   closed  
+====================
+1   1       1       
+2   1       1       
+4   1       1       
+5   1       1       
+6   1       1       
+8   1       1       
+9   1       1       
+10  1       1       
+11  1       1       
+12  1       1       
+13  1       1       
+14  1       1       
+15  1       1       
+16  1       1       
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT

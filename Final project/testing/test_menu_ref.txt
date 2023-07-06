@@ -1,0 +1,80 @@
+Welcome. Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Invalid input, try again
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT

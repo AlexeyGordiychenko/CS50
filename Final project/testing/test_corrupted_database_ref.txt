@@ -1,0 +1,156 @@
+Welcome. Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Error: corrupted database
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Error: corrupted database
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Error: corrupted database
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Error: corrupted database
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Error: corrupted database
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Error: corrupted database
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
+Please choose a table:
+     1.login
+     2.modules
+     3.doors
+     4.MAIN MENU / EXIT
+Not available, the code is missing or incorrect.
+Insert or update the code in the login table.
+Please choose one option:
+     1.SELECT
+     2.INSERT
+     3.UPDATE
+     4.DELETE
+     5.MAIN MENU / EXIT
