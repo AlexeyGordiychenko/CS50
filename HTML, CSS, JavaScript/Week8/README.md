@@ -1,4 +1,4 @@
-# Week 8
+# [Week 8](../../README.md)
 
 ## Lab: [Trivia](trivia/index.html)
 

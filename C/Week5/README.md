@@ -1,4 +1,4 @@
-# Week 5
+# [Week 5](../../README.md)
 
 ## Lab: [*Inheritance*](inheritance.c)
 

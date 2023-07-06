@@ -1,4 +1,4 @@
-# Week 2
+# [Week 2](../../README.md)
 
 ## Lab: [*Scrabble*](scrabble.c)
 

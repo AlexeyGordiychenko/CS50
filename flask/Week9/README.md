@@ -1,4 +1,4 @@
-# Week 9
+# [Week 9](../../README.md)
 
 ## Lab: [Birthdays](birthdays/app.py)
 

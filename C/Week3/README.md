@@ -1,4 +1,4 @@
-# Week 3
+# [Week 3](../../README.md)
 
 ## Lab: [*Sort*](merge_sort.c)
 

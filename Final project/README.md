@@ -1,4 +1,4 @@
-# ESCAPE THE ROOM
+# [ESCAPE THE ROOM](../README.md)
 ## Video Demo: [link](https://youtu.be/b4Wd3z8owZs)
 ## Prologue:
 

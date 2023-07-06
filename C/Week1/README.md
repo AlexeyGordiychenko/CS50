@@ -1,4 +1,4 @@
-# Week 1
+# [Week 1](../../README.md)
 
 ## Lab: [*Population Growth*](population.c)
 
