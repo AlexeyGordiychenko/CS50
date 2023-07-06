@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="/static/styles.css" rel="stylesheet">
+        <title>Birthdays</title>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Birthdays</h1>
+        </div>
+        <div class="container">
+            <div class="section_header">
+
+                <h2>Add a Birthday</h2>
+                <!-- TODO: Create a form for users to submit a name, a month, and a day -->
+                <form action="/" method="post">
+                    <input type="hidden" name="id" id="edit" value="0">
+                    <input type="text" autocomplete="off" placeholder="Name" name="name" required>
+                    <input type="number" min=1 max=12 autocomplete="off" placeholder="Month" name="month">
+                    <input type="number" min=1 max=31 autocomplete="off" placeholder="Day" name="day">
+                    <input type="submit" value="Add Birthday" class="add">
+                </form>
+            </div>
+
+            <div class="section_table">
+
+                <h2>All Birthdays</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Birthday</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- TODO: Loop through the database entries to display them in this table -->
+                        {% for line in birthdays %}
+                        <tr>
+                            <form action="/edit" method="POST" id="form{{ line.id }}"><input name="id" type="hidden" value="{{ line.id }}"></form>
+                            <td><input size="12" form="form{{ line.id }}" type="text" name="name" autocomplete="off" placeholder="Name" value="{{ line.name }}"/></td>
+                            <td><input size="4" form="form{{ line.id }}" type="text" name="date" autocomplete="off" placeholder="MM/DD" value="{{ line.month }}/{{ line.day }}"/></td>
+                            <td>
+                                <input form="form{{ line.id }}" name="action" type="submit" value="Remove" class="remove"/>
+                                <input form="form{{ line.id }}" name="action" type="submit" value="Update" class="update"/>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

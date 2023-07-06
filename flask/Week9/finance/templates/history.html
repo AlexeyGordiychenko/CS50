@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+    <div class="mb-3">
+        <table class="table table-bordered">
+            <th>Date</th>
+            <th>Symbol</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+            {% for line in history %}
+            <tr class='{{"sell" if line.quantity < 0 else "buy"}}'>
+                <td>{{ line.date }}</td>
+                <td>{{ line.symbol }}</td>
+                <td>{{ line.quantity }}</td>
+                <td>{{ line.price | usd}}</td>
+                <td>{{ line.sum | usd }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+{% endblock %}

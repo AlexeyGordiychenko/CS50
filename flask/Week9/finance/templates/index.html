@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+    <div class="mb-3">
+        <p>Balance: {{ cash | usd }}</p>
+        <p>Grand total: {{ total | usd }}</p>
+    </div>
+    <div class="mb-3">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Company</th>
+                    <th>Symbol</th>
+                    <th>Shares</th>
+                    <th>Price</th>
+                    <th>Total</th>
+                <tr>
+            <thead>
+            <tbody>
+                {% for line in stocks %}
+                <tr>
+                    <td>{{ line.company }}</td>
+                    <td>{{ line.symbol }}</td>
+                    <td>{{ line.quantity }}</td>
+                    <td>{{ line.price | usd}}</td>
+                    <td>{{ line.sum | usd }}</td>
+                </tr>
+                {% endfor %}
+            <tbody>
+            <tfoot>
+                <tr>
+                    <td class="border-0 fw-bold text-end" colspan="4">Cash</td>
+                    <td class="border-0">{{ cash | usd }}</td>
+                </tr>
+                <tr>
+                    <td class="border-0 fw-bold text-end" colspan="4">TOTAL</td>
+                    <td class="border-0 w-bold">{{ total | usd }}</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+{% endblock %}
