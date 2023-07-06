@@ -1,0 +1,2 @@
+1. I would characterize their audio aura by the average value of energy, valence, and danceability.
+2. This way might not be representative because for example one song with very high/low energy/valence/danceability can change the average value significantly. The better way might be to get the weight of each song by its place in the top 100 and then calculate its characteristics.

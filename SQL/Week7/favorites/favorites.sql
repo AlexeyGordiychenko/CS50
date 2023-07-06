@@ -1,0 +1,43 @@
+SELECT * FROM shows WHERE title LIKE '%Adventure Time%';
+SELECT * FROM shows WHERE title LIKE '%Arrow%';
+SELECT * FROM shows WHERE title LIKE '%Avatar%Airbender%';
+SELECT * FROM shows WHERE title LIKE '%Brooklyn%';
+SELECT * FROM shows WHERE title LIKE '%Community%';
+SELECT * FROM shows WHERE title LIKE '%Family Guy%';
+SELECT * FROM shows WHERE title LIKE '%Friends%';
+SELECT * FROM shows WHERE title LIKE '%Game of Thrones%' OR title = 'GoT';
+SELECT * FROM shows WHERE title LIKE '%Gilmore Girls%';
+SELECT * FROM shows WHERE title LIKE '%Grey%Anatomy%';
+SELECT * FROM shows WHERE title LIKE '%How I Met Your Mother%';
+SELECT * FROM shows WHERE title LIKE '%Always Sunny in Phil%';
+SELECT * FROM shows WHERE title LIKE '%Parks and Rec%';
+SELECT * FROM shows WHERE title LIKE '%Sherlock%';
+SELECT * FROM shows WHERE title LIKE '%Squid Game%';
+SELECT * FROM shows WHERE title LIKE '%The Bachelorette%';
+SELECT * FROM shows WHERE title LIKE '%The Crown%';
+SELECT * FROM shows WHERE title LIKE '%The%Office%' OR title = 'Office';
+SELECT * FROM shows WHERE title LIKE '%Queen%Gambit%';
+SELECT * FROM shows WHERE title LIKE '%The Untamed%';
+
+UPDATE shows SET title = 'Adventure Time' WHERE title LIKE '%Adventure Time%';
+UPDATE shows SET title = 'Arrow' WHERE title LIKE '%Arrow%';
+UPDATE shows SET title = 'Avatar: The Last Airbender' WHERE title LIKE '%Avatar%Airbender%';
+UPDATE shows SET title = 'Brooklyn Nine-Nine' WHERE title LIKE '%Brooklyn%';
+UPDATE shows SET title = 'Community' WHERE title LIKE '%Community%';
+UPDATE shows SET title = 'Family Guy' WHERE title LIKE '%Family Guy%';
+UPDATE shows SET title = 'Friends' WHERE title LIKE '%Friends%';
+UPDATE shows SET title = 'Game of Thrones' WHERE title LIKE '%Game of Thrones%' OR title = 'GoT';
+UPDATE shows SET title = 'Gilmore Girls' WHERE title LIKE '%Gilmore Girls%';
+UPDATE shows SET title = 'Grey’s Anatomy' WHERE title LIKE '%Grey%Anatomy%';
+UPDATE shows SET title = 'How I Met Your Mother' WHERE title LIKE '%How I Met Your Mother%';
+UPDATE shows SET title = 'It’s Always Sunny in Philadelphia' WHERE title LIKE '%Always Sunny in Phil%';
+UPDATE shows SET title = 'Parks and Recreation' WHERE title LIKE '%Parks and Rec%';
+UPDATE shows SET title = 'Sherlock' WHERE title LIKE '%Sherlock%';
+UPDATE shows SET title = 'Squid Game' WHERE title LIKE '%Squid Game%';
+UPDATE shows SET title = 'The Bachelorette' WHERE title LIKE '%The Bachelorette%';
+UPDATE shows SET title = 'The Crown' WHERE title LIKE '%The Crown%';
+UPDATE shows SET title = 'The Office' WHERE title LIKE '%The%Office%' OR title = 'Office';
+UPDATE shows SET title = 'The Queen’s Gambit' WHERE title LIKE '%Queen%Gambit%';
+UPDATE shows SET title = 'The Untamed' WHERE title LIKE '%The Untamed%';
+
+SELECT * FROM shows ORDER BY title
